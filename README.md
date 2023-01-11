@@ -1,4 +1,4 @@
-# GetInstagramUserInformation
+# Get Instagram User Information with python using terminal
 Get instagram user information by pyhton
 i do create this part of code using by `beauty soap and bs4 library` .
 
